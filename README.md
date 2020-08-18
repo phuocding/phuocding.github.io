@@ -1,13 +1,13 @@
 <h2>I'm Phuocding! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>R&D Specialist at <a href="http://www.cleartax.in">MindX School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>R&D Specialist at <a href="http://www.mindx.edu.vn">MindX School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/phuocding?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuocding/)](https://www.linkedin.com/in/phuocding/)
+[![Linkedin: phuocding](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuocding/)](https://www.linkedin.com/in/phuocding/)
 ![GitHub followers](https://img.shields.io/github/followers/phuocding?label=Follow&style=social)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <span><b><a href="phuocding.github.io/blog">A little more about me...</a><b><span>  
 
 ```javascript
 const anmol = {
